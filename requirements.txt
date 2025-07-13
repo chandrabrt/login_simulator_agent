@@ -1,0 +1,7 @@
+huggingface_hub==0.33.3
+pandas==2.3.1
+python-dotenv
+scikit-learn==1.7.0
+joblib==1.5.1
+google-generativeai==0.8.5
+streamlit==1.46.1
